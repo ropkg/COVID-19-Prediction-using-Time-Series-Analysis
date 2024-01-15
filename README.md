@@ -1,4 +1,5 @@
 # COVID-19 Time Series Analysis
+![Unknown](https://github.com/ropkg/COVID-19-Prediction-using-Time-Series-Analysis/assets/155868126/13c03f57-8464-46f3-96ef-de80c8028547)
 
 This repository contains Python code for performing time series analysis on COVID-19 data using the Holt-Winters Exponential Smoothing model. The code visualizes and predicts COVID-19 cases for a specific country (in this case, the United States).
 
